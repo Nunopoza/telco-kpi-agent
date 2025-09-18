@@ -1,0 +1,7 @@
+pandas
+duckdb
+pyyaml
+openai   
+anthropic 
+python-docx 
+reportlab  
